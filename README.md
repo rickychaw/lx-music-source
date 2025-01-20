@@ -3,19 +3,33 @@
 
 ## 在线导入 - 原始链接
 
-名称|链接
--|-
-SixYin|`https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js`
-Huibq|`https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js`
-Flower|`https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js`
+### SixYin
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
+```
+### Huibq
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
+```
+### Flower
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
+```
 
 ## 在线导入 - 加速链接
 
-名称|链接
--|-
-SixYin|`https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js`
-Huibq|`https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js`
-Flower|`https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js`
+### SixYin
+```
+https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
+```
+### Huibq
+```
+https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
+```
+### Flower
+```
+https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
+```
 
 ### 其他加速站点
 
