@@ -15,20 +15,44 @@ https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
 ```
 https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
 ```
+### LX
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
+```
+### ikun
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
+```
+### Grass
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
+```
 
 ## 在线导入 - 加速链接
 
 ### SixYin
 ```
-https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
 ```
 ### Huibq
 ```
-https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
 ```
 ### Flower
 ```
-https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
+```
+### LX
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
+```
+### ikun
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
+```
+### Grass
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
 ```
 
 ### 其他加速站点
@@ -46,4 +70,11 @@ https://ghproxy.net/https://raw.githubusercontent.com/pdone/lx-music-source/main
 ## 数据来源
 - [SixYin](https://www.sixyin.com/)
 - [Huibq/keep-alive](https://github.com/Huibq/keep-alive/)
-- [Flower](https://github.com/OneCodeMonkey/music-sources)
+- [LX](https://www.lxmusic.cc/)
+- [ikun](https://github.com/lxmusics/lx-music-api-server)
+
+## 项目地址
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+- [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)
+- [lx-music-sync-server](https://github.com/lyswhut/lx-music-sync-server)
+- [any-listen](https://github.com/any-listen/any-listen)
