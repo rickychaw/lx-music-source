@@ -78,3 +78,6 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/grass/l
 - [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)
 - [lx-music-sync-server](https://github.com/lyswhut/lx-music-sync-server)
 - [any-listen](https://github.com/any-listen/any-listen)
+
+## Stargazers Over Time
+[![Stargazers over time](https://starchart.cc/pdone/lx-music-source.svg?variant=adaptive)](https://starchart.cc/pdone/lx-music-source)
