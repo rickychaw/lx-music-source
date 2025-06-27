@@ -5,7 +5,7 @@ set "flowerVer=1"
 set "grassVer=1"
 set "huibqVer=1.2.0"
 set "ikunVer=6"
-set "lxVer=2"
+set "lxVer=3"
 set "sixyinVer=1.2.1"
 
 copy "flower\%flowerVer%.js" "flower\latest.js"
