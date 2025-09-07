@@ -1,0 +1,25 @@
+name: Sync Fork (Reset)
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # 每天北京时间 02:00
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reset to upstream
+        run: |
+          git remote add upstream https://github.com/pdone/lx-music-source.git
+          git fetch upstream
+          git checkout main
+          git reset --hard upstream/main
+
+      - name: Push changes
+        run: git push --force
