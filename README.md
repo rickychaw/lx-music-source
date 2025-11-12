@@ -28,6 +28,11 @@ https://raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
 https://raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
 ```
 
+### JuheApi
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/juhe/latest.js
+```
+
 ## 在线导入 - 加速链接
 
 ### SixYin
@@ -55,6 +60,11 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/ikun/la
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
 ```
 
+### JuheApi
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/juhe/latest.js
+```
+
 ### 其他加速站点
 
 当以上链接无法访问时，可将连接开头的 `https://ghproxy.net/` 替换为下边任一地址，然后重试。
@@ -78,6 +88,10 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/grass/l
 - [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)
 - [lx-music-sync-server](https://github.com/lyswhut/lx-music-sync-server)
 - [any-listen](https://github.com/any-listen/any-listen)
+
+## 爱发电❤
+
+https://afdian.com/a/pdone
 
 ## Stargazers Over Time
 [![Stargazers over time](https://starchart.cc/pdone/lx-music-source.svg?variant=adaptive)](https://starchart.cc/pdone/lx-music-source)
